@@ -1,0 +1,16 @@
+@media screen and (min-width: 960px)
+{
+    .myClass
+    {
+        font-style: italic;
+        font-size: 20pt;
+        background-color: aqua;
+    }
+}
+@media screen and (max-width: 960px)
+{
+    .myClass
+    {
+        background-color: aqua;
+    }
+}
