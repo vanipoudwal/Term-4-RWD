@@ -1,2 +1,2 @@
 # Term-4-RWD
-This Repository Is Used To Write Responsive Web Design (jQuery + CSS + JS) Code.
+This repository is used to write Responsive Web Design (jQuery + CSS + JS) code.
